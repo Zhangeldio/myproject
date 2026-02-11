@@ -2,7 +2,7 @@ const formulas = [
     // Механические явления
     {
         title: 'Закон Ома',
-        formula: 'V = I × R',
+        formula: 'U = I × R',
         description: 'Напряжение в электрической цепи',
         icon: '⚡',
         category: 'Электрические явления',
@@ -418,3 +418,4 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 });
+
